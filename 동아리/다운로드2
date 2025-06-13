@@ -1,0 +1,1 @@
+wget https://storage.googleapis.com/tfhub-lite-models/google/lite-model/movenet/singlepose/lightning/tflite/float16/4.tflite -O movenet_lightning.tflite
